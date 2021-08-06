@@ -1,4 +1,4 @@
-package com.practice.Baekjoon;
+package com.practice.Baekjoon.Str;
 
 import java.util.Scanner;
 import java.util.StringTokenizer;

@@ -1,10 +1,10 @@
-package com.practice.Baekjoon;
+package com.practice.Baekjoon.BruteForce;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-// N 과 M (8)
-public class BJ15657 {
+// N 과 M (7)
+public class BJ15656 {
     static int[] arr;
     static int[] sel;
     static int N,M;
@@ -23,11 +23,11 @@ public class BJ15657 {
 
         Arrays.sort(arr);
 
-        dfs(0, 0);
+        dfs(0);
         System.out.println(sb);
     }
 
-    public static void dfs(int at, int depth) {
+    public static void dfs(int depth) {
         if(depth == sel.length) {
             for (int i = 0; i <sel.length ; i++) {
                 sb.append(sel[i]).append(' ');
@@ -36,9 +36,9 @@ public class BJ15657 {
             return;
         }
 
-        for (int i = at; i < N ; i++) {
+        for (int i = 0; i < N ; i++) {
                 sel[depth] = arr[i];
-                dfs(i, depth + 1);
+                dfs(depth + 1);
             }
         }
     }

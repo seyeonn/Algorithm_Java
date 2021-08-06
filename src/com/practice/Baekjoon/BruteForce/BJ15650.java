@@ -1,8 +1,9 @@
-package com.practice.Baekjoon;
+package com.practice.Baekjoon.BruteForce;
 
 import java.util.Scanner;
 
 // N 과 M (2)
+// 중복되지 않은 조합
 public class BJ15650 {
     static int[] arr;
     static int N,M;

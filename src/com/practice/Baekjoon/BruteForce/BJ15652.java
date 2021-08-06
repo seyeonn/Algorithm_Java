@@ -1,9 +1,10 @@
-package com.practice.Baekjoon;
+package com.practice.Baekjoon.BruteForce;
 
 import java.util.Scanner;
 
-// N 과 M (3)
-public class BJ15651 {
+// N 과 M (4)
+// 중복을 허용하는 조합
+public class BJ15652 {
     static int[] arr;
     static int N,M;
     static StringBuilder sb = new StringBuilder();
@@ -15,11 +16,11 @@ public class BJ15651 {
         M = scan.nextInt();
         arr = new int[M];
 
-        dfs(0);
+        dfs(1, 0);
         System.out.println(sb);
     }
 
-    public static void dfs(int depth) {
+    public static void dfs(int at, int depth) {
         if(depth == arr.length) {
             for (int i = 0; i <arr.length ; i++) {
                 sb.append(arr[i]).append(' ');
@@ -28,9 +29,9 @@ public class BJ15651 {
             return;
         }
 
-        for (int i = 1; i <= N ; i++) {
+        for (int i = at; i <= N ; i++) {
                 arr[depth] = i;
-                dfs(depth+1);
+                dfs(i, depth+1);
             }
         }
     }

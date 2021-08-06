@@ -1,8 +1,9 @@
-package com.practice.Baekjoon;
+package com.practice.Baekjoon.BruteForce;
 
 import java.util.Scanner;
 
 // N 과 M (1)
+// 중복되지 않은열 순
 public class BJ15649 {
     static int[] arr;
     static boolean[] visited;
