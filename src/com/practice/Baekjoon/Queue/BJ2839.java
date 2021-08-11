@@ -9,26 +9,21 @@ public class BJ2839 {
 
         int N = scan.nextInt();
 
-        if(N%5 == 0){
-            System.out.println(N/5);
-            return;
-        }
-        else {
-            int f = N/5;
-
-            for (int i = f; i >0 ; i--) {
-                int t = N - (i*5);
-                if(t%3 == 0) {
-                    System.out.println(t / 3 + i);
-                    return;
-                }
+        int cnt = 0;
+        while(true){
+            if(N%5==0){
+                cnt += N/5;
+                System.out.println(cnt);
+                break;
+            }
+            else {
+                N-=3;
+                cnt++;
+            }
+            if(N<0){
+                System.out.println("-1");
+                break;
             }
         }
-        if(N%3==0){
-            System.out.println(N/3);
-        }else {
-            System.out.println(-1);
-        }
-        return;
     }
 }
