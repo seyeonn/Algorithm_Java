@@ -8,6 +8,7 @@ public class BJ10809 {
 
         String s = scan.nextLine();
 
+        //.indexOf() : 값 없으면 -1 반환
         for(char i='a'; i<'z'; i++){
             System.out.print(s.indexOf(i)+" ");
         }
