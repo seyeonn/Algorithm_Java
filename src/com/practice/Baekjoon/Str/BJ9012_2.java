@@ -28,12 +28,13 @@ public class BJ9012_2 {
                 else if(c ==')'){
                     count--;
                 }
+                // count가 0보다 작다는 것은 ')'가 더 있다는 것.
                 if(count <0)
                     return "NO";
             }
             if(count == 0)
                 return "YES";
-            else
+            else  //count가 0보다 많다는 것은 '('가 더 있다는 것.
                 return "NO";
         }
 
