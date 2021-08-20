@@ -15,11 +15,14 @@ public class BJ11399 {
             arr[i] = scan.nextInt();
         }
 
+        // 최소 경우를 만들기 위한 오름차순 정렬
         Arrays.sort(arr);
 
         int sum = arr[0];
         for (int i = 1; i < arr.length; i++) {
+            // 앞 인덱스 값과 누적
             arr[i] += arr[i-1];
+            // 누적한 값 합계
             sum += arr[i];
         }
 

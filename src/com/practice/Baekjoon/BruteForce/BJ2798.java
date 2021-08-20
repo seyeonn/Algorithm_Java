@@ -25,7 +25,9 @@ public class BJ2798 {
             for(int j=i+1; j<n; j++)
                 for(int k=j+1; k<n; k++) {
                     sum = arr[i] + arr[j] + arr[k];
+                    // 카드 3장의 합이 m보다 작으면
                     if(sum <= m) {
+                        // 그 수 중에서 가장 큰 값 구하기
                         if(ans <= sum)
                             ans = sum;
                     }
