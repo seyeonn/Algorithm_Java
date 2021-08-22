@@ -17,18 +17,20 @@ public class BJ1592 {
         int i=1;
         int count = -1;
         while(true) {
+            //M이 되면 종료
             if(arr[i] == M)
                 break;
 
             ++count;
 
+            // 짝수일 때 실행
             if(arr[i]%2 == 0){
                 i -= L;
                 if(i<1)
                     i += N;
                 arr[i]++;
             }
-            else {
+            else { //홀수일 때 실행
                 i += L;
                 if(i >N)
                     i -= N;
