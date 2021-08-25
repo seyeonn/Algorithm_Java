@@ -19,6 +19,7 @@ public class BJ2564 {
             loc[i][1] = scan.nextInt();
         }
 
+        // 동근이의 위치
         int d = scan.nextInt();
         int l = scan.nextInt();
 
