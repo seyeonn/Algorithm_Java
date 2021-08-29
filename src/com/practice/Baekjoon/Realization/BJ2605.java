@@ -11,7 +11,6 @@ public class BJ2605 {
         Scanner scan = new Scanner(System.in);
 
         int n = scan.nextInt();
-        ArrayList<Integer> list = new ArrayList<Integer>();
 
         int[] arr1 = new int[n];
         int[] arr2 = new int[n];
