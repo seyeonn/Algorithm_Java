@@ -18,10 +18,10 @@ Java로 풀이합니다.
   ### Baekjoon
   
   - #### BFS
-    1. [**1697번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/BruteForce/BJ1697.java) : 숨바꼭질
-    2. [**2178번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/BruteForce/BJ2178.java) : 미로 탐색
-    3. [**2206번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/BruteForce/BJ2206.java) : 벽 부수고 이동하기
-    4. [**7576번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/BruteForce/BJ7576.java) : 토마토
+    1. [**1697번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Bfs/BJ1697.java) : 숨바꼭질
+    2. [**2178번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Bfs/BJ2178.java) : 미로 탐색
+    3. [**2206번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Bfs/BJ2206.java) : 벽 부수고 이동하기
+    4. [**7576번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Bfs/BJ7576.java) : 토마토
   
   - #### BruteForce
     1. [**15649번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/BruteForce/BJ15649.java) : N과 M(1)
@@ -41,55 +41,99 @@ Java로 풀이합니다.
     15. [**3040_2번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/BruteForce/BJ3040_2.java) : 백설 공주와 일곱 난쟁이_부분집합
     
   - #### DP
-    1. [**12865번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/BruteForce/BJ12865.java) : 평범한 배낭
+    1. [**12865번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/DP/BJ12865.java) : 평범한 배낭
     
   - #### DFS
-    1. [**1012번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/BruteForce/BJ1012.java) : 유기농 배추
+    1. [**1012번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Dfs/BJ1012.java) : 유기농 배추
     
   - #### Diijkstra
-    1. [**4485번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/BruteForce/BJ4485.java) : 녹색 옷 입은 애가 젤다지?
+    1. [**4485번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Diijkstra/BJ4485.java) : 녹색 옷 입은 애가 젤다지?
   
   - #### GreedyAlgorithm
     1. [**11399번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/GreedyAlgorithm/BJ11399.java) : ATM
   
   - #### Math1
-    1. [**10871번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/GreedyAlgorithm/BJ10871.java) : X보다 작은 수
-    2. [**1475번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/GreedyAlgorithm/BJ1475.java) : 방 번호
-    3. [**1592번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/GreedyAlgorithm/BJ1592.java) : 영식이와 친구들
-    4. [**16206번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/GreedyAlgorithm/BJ16206.java) : 롤케이크
-    5. [**1977번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/GreedyAlgorithm/BJ1977.java) : 완전제곱수
-    6. [**1978번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/GreedyAlgorithm/BJ1978.java) : 소수 찾기
-    7. [**2475번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/GreedyAlgorithm/BJ2475.java) : 검증수
-    8. [**2501번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/GreedyAlgorithm/BJ2501.java) : 약수 구하기
-    9. [**2527번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/GreedyAlgorithm/BJ2527.java) : 직사각형
-    10. [**2559번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/GreedyAlgorithm/BJ2559.java) : 수열
-    11. [**2581번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/GreedyAlgorithm/BJ2581.java) : 소수
-    12. [**2747번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/GreedyAlgorithm/BJ2747.java) : 피보나치 수
-    13. [**2884번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/GreedyAlgorithm/BJ2884.java) : 알람 시계
-    14. [**3052번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/GreedyAlgorithm/BJ3052.java) : 나머지
-    15. [**3460번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/GreedyAlgorithm/BJ3460.java) : 이진수
-    16. [**3985번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/GreedyAlgorithm/BJ3985.java) : 롤 케이크
-    17. [**4153번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/GreedyAlgorithm/BJ4153.java) : 직각삼각형
-    18. [**4344번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/GreedyAlgorithm/BJ4344.java) : 평균은 넘겠지
+    1. [**10871번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ10871.java) : X보다 작은 수
+    2. [**1475번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ1475.java) : 방 번호
+    3. [**1592번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ1592.java) : 영식이와 친구들
+    4. [**16206번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ16206.java) : 롤케이크
+    5. [**1977번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ1977.java) : 완전제곱수
+    6. [**1978번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ1978.java) : 소수 찾기
+    7. [**2475번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ2475.java) : 검증수
+    8. [**2501번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ2501.java) : 약수 구하기
+    9. [**2527번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ2527.java) : 직사각형
+    10. [**2559번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ2559.java) : 수열
+    11. [**2581번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ2581.java) : 소수
+    12. [**2747번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ2747.java) : 피보나치 수
+    13. [**2884번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ2884.java) : 알람 시계
+    14. [**3052번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ3052.java) : 나머지
+    15. [**3460번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ3460.java) : 이진수
+    16. [**3985번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ3985.java) : 롤 케이크
+    17. [**4153번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ4153.java) : 직각삼각형
+    18. [**4344번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ4344.java) : 평균은 넘겠지
 
   - #### Math2
+    1. [**2748번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math2/BJ2748.java) : 피보나치 수 2
 
   - #### Queue
+    1. [**2164번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Queue/BJ2164.java) : 카드 2
+    2. [**2839번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Queue/BJ2839.java) : 설탕 배달
   
   - #### Realization
-  
+    1. [**10157번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ10157.java) : 자리배정
+    2. [**10163번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ10163.java) : 색종이
+    3. [**10797번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ10797.java) : 10부제
+    4. [**1244번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ1244.java) : 스위티 켜고 끄기
+    5. [**13300번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ13300.java) : 방 배정
+    6. [**13304번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ13304.java) : 방 배정
+    7. [**2292번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ2292.java) : 벌집
+    8. [**2309번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ2309.java) : 일곱 난쟁이
+    9. [**2477번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ2477.java) : 참외밭
+    10. [**2564번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ2564.java) : 경비원
+    11. [**2567번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ2567.java) : 색종이 - 2
+    12. [**2578번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ2578.java) : 빙고
+    13. [**2605번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ2605.java) : 줄 세우기
+    14. [**2851번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ2851.java) : 슈퍼 마리오
+    15. [**2920번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ2920.java) : 음계
+    16. [**3985번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ3985.java) : 롤 케이크
+    17. [**8320번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ8320.java) : 직사각형을 만드는 방법
+    
   - #### Recursive
-  
+    1. [**2741번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Recursive/BJ2741.java) : N 찍기
+    2. [**3040번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Recursive/BJ3040.java) : 백설 공주와 일곱 난쟁이
+    
   - #### Stack
-  
+    1. [**10773번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Stack/BJ10773.java) : 제로
+    2. [**17413번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Stack/BJ17413.java) : 단어 뒤집기 2
+    3. [**9012번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Stack/BJ9012.java) : 괄호
+
   - #### Str
+    1. [**10808번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ10808.java) : 알파벳 개수
+    2. [**10809번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ10809.java) : 알파벳 찾기
+    3. [**10951번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ10951.java) : A+B - 4
+    4. [**10952번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ10952.java) : A+B - 5
+    5. [**10953번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ10953.java) : A+B - 6
+    6. [**11098번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ11098.java) : 첼시를 도와줘!
+    7. [**1152번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ1152.java) : 단어의 개수
+    8. [**1157번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ1157.java) : 단어 공부
+    9. [**11720번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ11720.java) : 숫자의 합
+    10. [**1316번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ1316.java) : 그룹 단어 체커
+    11. [**1427번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ1427.java) : 소트인사이드
+    13. [**2810번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ2810.java) : 컵홀더
+    14. [**2908번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ2908.java) : 상수
+    15. [**2941번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ2941.java) : 크로아티아 알파벳
+    16. [**2999번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ2999.java) : 비밀 이메일
+    17. [**8958번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ8958.java) : OX퀴즈
+    
   
 ------
 
   ### SWexpert
   
   - #### D1
-  
+    1. [**2027번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/SWExpert/D1/SW2027.java) : 대각선 출력하기
+    2. [**2058번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/SWExpert/D1/SW2058.java) : 자릿수 더하기
+
   - #### D2
   
   - #### D3
