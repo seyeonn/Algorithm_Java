@@ -51,6 +51,7 @@ Java로 풀이합니다.
   
   - #### GreedyAlgorithm
     1. [**11399번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/GreedyAlgorithm/BJ11399.java) : ATM
+    2. [**1026번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/GreedyAlgorithm/BJ1026.java) : 보물
   
   - #### Math1
     1. [**10871번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ10871.java) : X보다 작은 수
