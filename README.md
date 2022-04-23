@@ -177,6 +177,6 @@ Java로 풀이합니다.
   ### Programmers
   
   - #### 정렬
-   1. [**가장 큰 수**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/PG_가장큰수.java) : 가장 큰 
+   1. [**가장 큰 수**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/PG_가장큰수.java) : 가장 큰 수
 
 
