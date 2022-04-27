@@ -185,4 +185,4 @@ Java로 풀이합니다.
     1. [**모의고사**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/PG_모의고사.java) : 모의고사
 
   - #### 해시
-    1.  [**완주하지 못한 선수**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/PG_.java) : 완주하지 못한 선수
+    1.  [**완주하지 못한 선수**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/PG_완주하지못한선수.java) : 완주하지 못한 선수
