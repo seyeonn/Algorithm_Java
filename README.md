@@ -40,7 +40,7 @@ Java로 풀이합니다.
     13. [**2961_3번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/BruteForce/BJ2961_3.java) : 도영이가 만든 맛있는 음식_조합2
     14. [**3040번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/BruteForce/BJ3040.java) : 백설 공주와 일곱 난쟁이_조합
     15. [**3040_2번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/BruteForce/BJ3040_2.java) : 백설 공주와 일곱 난쟁이_부분집합
-    16. [**17136번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/BruteForce/BJ17136.java) : 
+    16. [**17136번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/BruteForce/BJ17136.java) : 색종이 붙이기
     
   - #### DP
     1. [**12865번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/DP/BJ12865.java) : 평범한 배낭
