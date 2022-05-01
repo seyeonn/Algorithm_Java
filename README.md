@@ -40,6 +40,7 @@ Java로 풀이합니다.
     13. [**2961_3번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/BruteForce/BJ2961_3.java) : 도영이가 만든 맛있는 음식_조합2
     14. [**3040번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/BruteForce/BJ3040.java) : 백설 공주와 일곱 난쟁이_조합
     15. [**3040_2번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/BruteForce/BJ3040_2.java) : 백설 공주와 일곱 난쟁이_부분집합
+    16. [**17136번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/BruteForce/BJ17136.java) : 
     
   - #### DP
     1. [**12865번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/DP/BJ12865.java) : 평범한 배낭
@@ -185,4 +186,7 @@ Java로 풀이합니다.
     1. [**모의고사**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/PG_모의고사.java) : 모의고사
 
   - #### 해시
-    1.  [**완주하지 못한 선수**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/PG_완주하지못한선수.java) : 완주하지 못한 선수
+    1. [**완주하지 못한 선수**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/PG_완주하지못한선수.java) : 완주하지 못한 선수
+
+  - #### etc.
+    1. [**약수의 개수와 덧셈**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/PG_약수의개수와덧셈.java) : 약수의 개수와 덧셈
