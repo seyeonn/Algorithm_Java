@@ -47,6 +47,7 @@ Java로 풀이합니다.
     
   - #### DFS
     1. [**1012번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Dfs/BJ1012.java) : 유기농 배추
+    2. [**1520번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Dfs/BJ1520.java) : 내리막길
     
   - #### Diijkstra
     1. [**4485번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Diijkstra/BJ4485.java) : 녹색 옷 입은 애가 젤다지?
