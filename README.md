@@ -23,7 +23,7 @@ Java로 풀이합니다.
     2. [**2178번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Bfs/BJ2178.java) : 미로 탐색
     3. [**2206번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Bfs/BJ2206.java) : 벽 부수고 이동하기
     4. [**7576번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Bfs/BJ7576.java) : 토마토
-    5. [**10026번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/BruteForce/BJ10026.java) : 적록색약
+    5. [**10026번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Bfs/BJ10026.java) : 적록색약
   
   - #### BruteForce
     1. [**15649번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/BruteForce/BJ15649.java) : N과 M(1)
