@@ -23,6 +23,7 @@ Java로 풀이합니다.
     2. [**2178번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Bfs/BJ2178.java) : 미로 탐색
     3. [**2206번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Bfs/BJ2206.java) : 벽 부수고 이동하기
     4. [**7576번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Bfs/BJ7576.java) : 토마토
+    5. [**10026번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/BruteForce/BJ10026.java) : 적록색약
   
   - #### BruteForce
     1. [**15649번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/BruteForce/BJ15649.java) : N과 M(1)
@@ -41,7 +42,7 @@ Java로 풀이합니다.
     14. [**3040번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/BruteForce/BJ3040.java) : 백설 공주와 일곱 난쟁이_조합
     15. [**3040_2번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/BruteForce/BJ3040_2.java) : 백설 공주와 일곱 난쟁이_부분집합
     16. [**17136번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/BruteForce/BJ17136.java) : 색종이 붙이기
-    
+        
   - #### DP
     1. [**12865번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/DP/BJ12865.java) : 평범한 배낭
     
