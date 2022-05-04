@@ -1,9 +1,9 @@
-package beakjoon;
+package com.practice.Programmers;
 
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class PG_°¡ÀåÅ«¼ö {
+public class PG_ê°€ì¥í°ìˆ˜ {
 	public String solution(int[] numbers) {
 
 		String[] arr = new String[numbers.length];

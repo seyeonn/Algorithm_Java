@@ -1,4 +1,4 @@
-package beakjoon;
+package com.practice.Baekjoon.GreedyAlgorithm;
 
 import java.util.Arrays;
 import java.util.Collections;

@@ -1,8 +1,8 @@
-package programmers;
+package com.practice.Programmers;
 
 import java.util.Arrays;
 
-public class PG_K¹øÂ°¼ö {
+public class PG_Kë²ˆì§¸ìˆ˜ {
 
 	public int[] solution(int[] array, int[][] commands) {
         int[] answer = new int[commands.length];

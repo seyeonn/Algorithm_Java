@@ -1,9 +1,9 @@
-package programmers;
+package com.practice.Programmers;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class PG_¸ğÀÇ°í»ç {
+public class PG_ëª¨ì˜ê³ ì‚¬ {
 
 	public int[] solution(int[] answers) {
         int[][] person = {{1, 2, 3, 4, 5}, 

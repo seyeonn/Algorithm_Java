@@ -1,4 +1,4 @@
-package Baekjoon.BruteForce;
+package com.practice.Baekjoon.BruteForce;
 
 import java.util.Scanner;
 

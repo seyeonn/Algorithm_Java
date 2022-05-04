@@ -1,8 +1,8 @@
-package programmers;
+package com.practice.Programmers;
 
 import java.util.Arrays;
 
-public class PG_¿ÏÁÖÇÏÁö¸øÇÑ¼±¼ö {
+public class PG_ì™„ì£¼í•˜ì§€ëª»í•œì„ ìˆ˜ {
 
 	public String solution(String[] participant, String[] completion) {
         Arrays.sort(participant);
