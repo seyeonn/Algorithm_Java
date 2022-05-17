@@ -47,6 +47,7 @@ Java로 풀이합니다.
         
   - #### DP
     1. [**12865번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/DP/BJ12865.java) : 평범한 배낭
+    2. [**1912번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/DP/BJ1912.java) : 연속합
     
   - #### DFS
     1. [**1012번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Dfs/BJ1012.java) : 유기농 배추
@@ -60,6 +61,7 @@ Java로 풀이합니다.
     1. [**11399번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/GreedyAlgorithm/BJ11399.java) : ATM
     2. [**1026번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/GreedyAlgorithm/BJ1026.java) : 보물
     3. [**1541번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/GreedyAlgorithm/BJ1541.java) : 잃어버린 괄호
+    4. [**5585번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/GreedyAlgorithm/BJ5585.java) : 거스름돈
   
   - #### Math1
     1. [**10871번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ10871.java) : X보다 작은 수
@@ -92,7 +94,7 @@ Java로 풀이합니다.
     1. [**10157번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ10157.java) : 자리배정
     2. [**10163번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ10163.java) : 색종이
     3. [**10797번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ10797.java) : 10부제
-    4. [**1244번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ1244.java) : 스위티 켜고 끄기
+    4. [**1244번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ1244.java) : 스위 켜고 끄기
     5. [**13300번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ13300.java) : 방 배정
     6. [**13304번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ13304.java) : 방 배정
     7. [**2292번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ2292.java) : 벌집
