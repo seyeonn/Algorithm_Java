@@ -85,6 +85,7 @@ Java로 풀이합니다.
     18. [**4344번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ4344.java) : 평균은 넘겠지
     19. [**11650번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ11650.java) : 좌표 정렬하기
     20. [**1193번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ1193.java) : 분수 찾기
+    21. [**2869번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ2869.java) : 달팽이는 올라가고 싶다
 
   - #### Math2
     1. [**2748번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math2/BJ2748.java) : 피보나치 수 2
