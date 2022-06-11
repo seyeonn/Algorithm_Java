@@ -120,6 +120,7 @@ Java로 풀이합니다.
   - #### Recursive
     1. [**2741번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Recursive/BJ2741.java) : N 찍기
     2. [**3040번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Recursive/BJ3040.java) : 백설 공주와 일곱 난쟁이
+    3. [**10870번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Recursive/BJ10870.java) : 피보나치 수 5
     
   - #### Stack
     1. [**10773번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Stack/BJ10773.java) : 제로
