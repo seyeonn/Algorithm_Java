@@ -88,6 +88,7 @@ Java로 풀이합니다.
     20. [**1193번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ1193.java) : 분수 찾기
     21. [**2869번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ2869.java) : 달팽이는 올라가고 싶다
     22. [**10250번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ10250.java) : ACM 호텔
+    23. [**1085번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ1085.java) : 직사각형에서 탈출
 
   - #### Math2
     1. [**2748번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math2/BJ2748.java) : 피보나치 수 2
