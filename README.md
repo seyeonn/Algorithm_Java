@@ -150,6 +150,7 @@ Java로 풀이합니다.
     17. [**8958번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ8958.java) : OX퀴즈
     18. [**2675번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ2675.java) : 문자열 반복
     19. [**1181번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ1181.java) : 단어 정렬
+    20. [**10814번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ10814.java) : 나이순 정렬
     
   
 ------
