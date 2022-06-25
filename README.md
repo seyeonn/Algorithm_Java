@@ -96,6 +96,7 @@ Java로 풀이합니다.
     1. [**2748번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math2/BJ2748.java) : 피보나치 수 2
     2. [**11653번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math2/BJ11653.java) : 소인수분해
     3. [**4948번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math2/BJ4948.java) : 베르트랑 공준
+    4. [**1929번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math2/BJ1929.java) : 소수 구하기
 
   - #### Queue
     1. [**2164번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Queue/BJ2164.java) : 카드 2
