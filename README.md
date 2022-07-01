@@ -98,6 +98,7 @@ Java로 풀이합니다.
     3. [**4948번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math2/BJ4948.java) : 베르트랑 공준
     4. [**1929번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math2/BJ1929.java) : 소수 구하기
     5. [**1002번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math2/BJ1002.java) : 터렛
+    6. [**9375번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math2/BJ9375.java) : 패션왕 신해빈
 
   - #### Queue
     1. [**2164번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Queue/BJ2164.java) : 카드 2
