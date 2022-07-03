@@ -99,6 +99,7 @@ Java로 풀이합니다.
     4. [**1929번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math2/BJ1929.java) : 소수 구하기
     5. [**1002번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math2/BJ1002.java) : 터렛
     6. [**9375번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math2/BJ9375.java) : 패션왕 신해빈
+    7. [**3036번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math2/BJ3036.java) : 링
 
   - #### Queue
     1. [**2164번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Queue/BJ2164.java) : 카드 2
