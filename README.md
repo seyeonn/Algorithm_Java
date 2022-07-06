@@ -204,16 +204,12 @@ Java로 풀이합니다.
 
   ### Programmers
   
-  - #### 정렬
-    1. [**K번째 수**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/PG_K번째수.java) : K번째 수
-    2. [**가장 큰 수**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/PG_가장큰수.java) : 가장 큰 수
+  - #### Level 1
+    1. [**K번째 수**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/PG_K번째수.java)
+    2. [**모의고사**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/PG_모의고사.java)
+    3. [**완주하지 못한 선수**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/PG_완주하지못한선수.java)
+    4. [**약수의 개수와 덧셈**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/PG_약수의개수와덧셈.java)
+
+  - #### Level 2
+    1. [**가장 큰 수**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/PG_가장큰수.java)
     
-  
-  - #### 완전탐색
-    1. [**모의고사**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/PG_모의고사.java) : 모의고사
-
-  - #### 해시
-    1. [**완주하지 못한 선수**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/PG_완주하지못한선수.java) : 완주하지 못한 선수
-
-  - #### etc.
-    1. [**약수의 개수와 덧셈**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/PG_약수의개수와덧셈.java) : 약수의 개수와 덧셈
