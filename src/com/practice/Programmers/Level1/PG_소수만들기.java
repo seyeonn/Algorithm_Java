@@ -1,4 +1,4 @@
-package com.practice.Programmers;
+package com.practice.Programmers.Level1;
 
 class PG_소수만들기 {
     public int solution(int[] nums) {

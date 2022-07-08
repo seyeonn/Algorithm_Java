@@ -1,4 +1,4 @@
-package com.practice.Programmers;
+package com.practice.Programmers.Level1;
 
 class PG_내적 {
     public int solution(int[] a, int[] b) {

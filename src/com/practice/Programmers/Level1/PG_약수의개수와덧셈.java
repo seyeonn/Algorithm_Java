@@ -1,4 +1,4 @@
-package com.practice.Programmers;
+package com.practice.Programmers.Level1;
 
 public class PG_약수의개수와덧셈 {
 	
