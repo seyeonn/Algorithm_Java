@@ -205,12 +205,12 @@ Java로 풀이합니다.
   ### Programmers
   
   - #### Level 1
-    1. [**K번째 수**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/PG_K번째수.java)
-    2. [**모의고사**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/PG_모의고사.java)
-    3. [**완주하지 못한 선수**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/PG_완주하지못한선수.java)
-    4. [**약수의 개수와 덧셈**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/PG_약수의개수와덧셈.java)
-    5. [**소수 만들기**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/PG_소수만들기.java)
+    1. [**K번째 수**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_K번째수.java)
+    2. [**모의고사**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_모의고사.java)
+    3. [**완주하지 못한 선수**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_완주하지못한선수.java)
+    4. [**약수의 개수와 덧셈**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_약수의개수와덧셈.java)
+    5. [**소수 만들기**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_소수만들기.java)
 
   - #### Level 2
-    1. [**가장 큰 수**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/PG_가장큰수.java)
+    1. [**가장 큰 수**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level2/PG_가장큰수.java)
     
