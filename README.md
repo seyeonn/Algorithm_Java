@@ -218,6 +218,8 @@ Java로 풀이합니다.
     11. [**두 정수 사이의 합**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_두정수사이의합.java)
     12. [**문자열 내 p와 y의 개수**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_문자열내p와y의개수.java)
     13. [**문자열 내 마음대로 정렬하기**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_문자열내마음대로정렬하기.java)
+    14. [**나누어 떨어지는 숫자 배열**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_나누어떨어지는숫자배열.java)
+
 
   - #### Level 2
     1. [**가장 큰 수**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level2/PG_가장큰수.java)
