@@ -220,6 +220,7 @@ Java로 풀이합니다.
     13. [**문자열 내 마음대로 정렬하기**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_문자열내마음대로정렬하기.java)
     14. [**나누어 떨어지는 숫자 배열**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_나누어떨어지는숫자배열.java)
     15. [**나머지가 1이 되는 수 찾기**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_나머지가1이되는수찾기.java)
+    16. [**직사각형 별찍기**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_직사각형별찍기.java)
 
 
   - #### Level 2
