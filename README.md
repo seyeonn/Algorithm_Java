@@ -223,6 +223,7 @@ Java로 풀이합니다.
     16. [**직사각형 별찍기**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_직사각형별찍기.java)
     17. [**x만큼 간격이 있는 n개의 숫자**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_x만큼간격이있는n개의숫자.java)
     18. [**행렬의 덧셈**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_행렬의덧셈.java)
+    19. [**핸드폰 번호 가리기**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_핸드폰번호가리기.java)
 
 
   - #### Level 2
