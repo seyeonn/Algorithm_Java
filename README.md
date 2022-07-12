@@ -230,6 +230,12 @@ Java로 풀이합니다.
     23. [**제일 작은 수 제거하기**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_제일작은수제거하기.java)
     24. [**자릿수 더하기**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_자릿수더하기.java)
     25. [**문자열을 정수로 바꾸기**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_문자열을정수로바꾸기.java)
+    26. [**문자열 내림차순으로 배치하기**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_문자열내림차순으로배치하기.java)
+    27. [**소수 찾기**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_소수찾기.java)
+    28. [**이상한 문자 만들기**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_이상한문자만들기.java)
+    29. [**자연수 뒤집어 배열로 만들기**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_자연수뒤집어배열로만들기.java)
+    30. [**정수 내림차순으로 배치하기**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_정수내림차순으로배치하기.java)
+    31. [**정수 제곱근 판별**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_정수제곱근판별.java)
 
 
   - #### Level 2
