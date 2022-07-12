@@ -225,6 +225,11 @@ Java로 풀이합니다.
     18. [**행렬의 덧셈**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_행렬의덧셈.java)
     19. [**핸드폰 번호 가리기**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_핸드폰번호가리기.java)
     20. [**하샤드 수**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_하샤드수.java)
+    21. [**짝수와 홀수**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_짝수와홀수.java)
+    22. [**평균 구하기**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_평균구하기.java)
+    23. [**제일 작은 수 제거하기**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_제일작은수제거하기.java)
+    24. [**자릿수 더하기**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_자릿수더하기.java)
+    25. [**문자열을 정수로 바꾸기**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_문자열을정수로바꾸기.java)
 
 
   - #### Level 2
