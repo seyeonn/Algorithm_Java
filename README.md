@@ -236,6 +236,14 @@ Java로 풀이합니다.
     29. [**자연수 뒤집어 배열로 만들기**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_자연수뒤집어배열로만들기.java)
     30. [**정수 내림차순으로 배치하기**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_정수내림차순으로배치하기.java)
     31. [**정수 제곱근 판별**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_정수제곱근판별.java)
+    31. [**로또의 최고 순위와 최저 순위**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_로또의최고순위와최저순위.java)
+    32. [**수박수박수박수박수?**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_수박문제.java)
+    33. [**서울에서 김서방 찾기**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_서울에서김서방찾기.java)
+    34. [**2016년**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_2016년.java)
+    35. [**문자열 다루기 기본**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_문자열다루기기본.java)
+    36. [**최대공약수와 최소공배수**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_최대공약수와최소공배수.java)
+    37. [**시저 암호**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_시저암호.java)
+    38. [**콜라츠 추측**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_콜라츠추측.java)
 
 
   - #### Level 2
