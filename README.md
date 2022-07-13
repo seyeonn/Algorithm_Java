@@ -245,6 +245,7 @@ Java로 풀이합니다.
     37. [**시저 암호**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_시저암호.java)
     38. [**콜라츠 추측**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_콜라츠추측.java)
     39. [**같은 숫자는 싫어**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_같은숫자는싫어.java)
+    40. [**최소직사각형**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_최소직사각형.java)
 
 
   - #### Level 2
