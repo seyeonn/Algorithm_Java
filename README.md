@@ -252,4 +252,6 @@ Java로 풀이합니다.
 
   - #### Level 2
     1. [**가장 큰 수**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level2/PG_가장큰수.java)
+    2. [**최댓값과 최솟값**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level2/PG_최댓값과최솟값.java)
+    3. [**피보나치 수**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level2/PG_피보나치수.java)
     
