@@ -94,6 +94,7 @@ Java로 풀이합니다.
     25. [**2753번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ2753.java) : 윤년
     26. [**14681번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ14681.java) : 사분면 고르기
     27. [**1546번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ1546.java) : 평균
+    28. [**1110번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ1110.java) : 더하기 사이클
 
   - #### Math2
     1. [**2748번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math2/BJ2748.java) : 피보나치 수 2
