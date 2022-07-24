@@ -96,6 +96,7 @@ Java로 풀이합니다.
     27. [**1546번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ1546.java) : 평균
     28. [**1110번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ1110.java) : 더하기 사이클
     29. [**1676번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ1676.java) : 팩토리얼 0의 개수
+    30. [**3053번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ3053.java) : 택시 기하학
 
   - #### Math2
     1. [**2748번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math2/BJ2748.java) : 피보나치 수 2
