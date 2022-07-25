@@ -58,6 +58,8 @@ Java로 풀이합니다.
     
   - #### Diijkstra
     1. [**4485번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Diijkstra/BJ4485.java) : 녹색 옷 입은 애가 젤다지?
+    2. [**1753번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Diijkstra/BJ1753.java) : 최단경로
+  
   
   - #### GreedyAlgorithm
     1. [**11399번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/GreedyAlgorithm/BJ11399.java) : ATM
