@@ -99,6 +99,7 @@ Java로 풀이합니다.
     28. [**1110번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ1110.java) : 더하기 사이클
     29. [**1676번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ1676.java) : 팩토리얼 0의 개수
     30. [**3053번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ3053.java) : 택시 기하학
+    31. [**18870번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ18870.java) : 좌표 압축
 
   - #### Math2
     1. [**2748번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math2/BJ2748.java) : 피보나치 수 2
