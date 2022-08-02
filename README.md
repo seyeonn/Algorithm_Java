@@ -46,6 +46,7 @@ Java로 풀이합니다.
     17. [**1018번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/BruteForce/BJ1018.java) : 체스판 다시 칠하기
     18. [**7568번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/BruteForce/BJ7568.java) : 덩치
     19. [**1065번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/BruteForce/BJ1065.java) : 한수
+    20. [**11170번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/BruteForce/BJ11170.java) : 0의 개수
         
   - #### DP
     1. [**12865번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/DP/BJ12865.java) : 평범한 배낭
