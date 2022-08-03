@@ -172,6 +172,7 @@ Java로 풀이합니다.
     20. [**10926번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ10926.java) : ??!
     21. [**18108번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ18108.java) : 1998년생인 내가 태국에서는 2541년생?!
     22. [**25083번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ25083.java) : 새싹
+    23. [**11365번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ11365.java) : !밀비 급일
     
   
 ------
