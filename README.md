@@ -138,7 +138,8 @@ Java로 풀이합니다.
     17. [**8320번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ8320.java) : 직사각형을 만드는 방법
     18. [**14910번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ14910.java) : 오르막
     19. [**10807번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ10807.java) : 개수 세기
-    
+    20. [**2441번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ2441.java) : 별 찍기 - 4
+
   - #### Recursive
     1. [**2741번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Recursive/BJ2741.java) : N 찍기
     2. [**3040번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Recursive/BJ3040.java) : 백설 공주와 일곱 난쟁이
