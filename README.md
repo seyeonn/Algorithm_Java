@@ -152,6 +152,7 @@ Java로 풀이합니다.
     1. [**10773번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Stack/BJ10773.java) : 제로
     2. [**17413번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Stack/BJ17413.java) : 단어 뒤집기 2
     3. [**9012번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Stack/BJ9012.java) : 괄호
+    4. [**4949번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Stack/BJ4949.java) : 균형잡힌 세상
 
   - #### Str
     1. [**10808번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ10808.java) : 알파벳 개수
