@@ -180,6 +180,7 @@ Java로 풀이합니다.
     22. [**25083번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ25083.java) : 새싹
     23. [**11365번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ11365.java) : !밀비 급일
     24. [**10821번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ10821.java) : 정수의 개수
+    25. [**2744번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ2744.java) : 대소문자 바꾸기
     
   
 ------
