@@ -147,6 +147,7 @@ Java로 풀이합니다.
     19. [**10807번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ10807.java) : 개수 세기
     20. [**2441번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ2441.java) : 별 찍기 - 4
     21. [**9076번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ9076.java) : 점수 집계
+    22. [**2490번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ2490.java) : 윷놀이
 
   - #### Recursive
     1. [**2741번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Recursive/BJ2741.java) : N 찍기
