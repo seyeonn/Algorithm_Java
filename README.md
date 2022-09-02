@@ -193,6 +193,7 @@ Java로 풀이합니다.
     27. [**17094번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ17094.java) : Serious Problem
     28. [**11721번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ11721.java) : 열 개씩 끊어 출력하기
     29. [**11656번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ11656.java) : 접미사 배열
+    30. [**4470번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ4470.java) : 줄번호
     
   
 ------
