@@ -112,6 +112,7 @@ Java로 풀이합니다.
     40. [**2576번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ2576.java) : 홀수
     41. [**5543번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ2576.java) : 상근날드
     42. [**2592번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ2592.java) : 대표값
+    43. [**2953번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math1/BJ2953.java) : 나는 요리사다
 
   - #### Math2
     1. [**2748번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Math2/BJ2748.java) : 피보나치 수 2
