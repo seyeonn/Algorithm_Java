@@ -151,6 +151,7 @@ Java로 풀이합니다.
     21. [**9076번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ9076.java) : 점수 집계
     22. [**2490번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ2490.java) : 윷놀이
     23. [**5597번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ5597.java) : 과제 안 내신 분..?
+    24. [**2506번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ2506.java) : 점수계산
 
   - #### Recursive
     1. [**2741번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Recursive/BJ2741.java) : N 찍기
