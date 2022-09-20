@@ -154,6 +154,7 @@ Java로 풀이합니다.
     22. [**2490번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ2490.java) : 윷놀이
     23. [**5597번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ5597.java) : 과제 안 내신 분..?
     24. [**2506번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ2506.java) : 점수계산
+    25. [**2525번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ2525.java) : 오븐 시계
 
   - #### Recursive
     1. [**2741번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Recursive/BJ2741.java) : N 찍기
