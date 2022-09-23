@@ -295,6 +295,7 @@ Java로 풀이합니다.
     40. [**최소직사각형**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_최소직사각형.java)
     41. [**숫자 문자열과 영단어**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_숫자문자열과영단어.java)
     42. [**3진법 뒤집기**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_3진법뒤집기.java)
+    43. [**부족한 금액 계산하기**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Programmers/Level1/PG_부족한금액계산하기.java)
 
 
   - #### Level 2
