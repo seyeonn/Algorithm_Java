@@ -156,6 +156,8 @@ Java로 풀이합니다.
     24. [**2506번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ2506.java) : 점수계산
     25. [**2525번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ2525.java) : 오븐 시계
     26. [**2480번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ2480.java) : 주사위 세개
+    27. [**5656번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Realization/BJ5656.java) : 비교 연산자
+
 
   - #### Recursive
     1. [**2741번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Recursive/BJ2741.java) : N 찍기
