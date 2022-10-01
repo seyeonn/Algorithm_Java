@@ -206,6 +206,7 @@ Java로 풀이합니다.
     29. [**11656번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ11656.java) : 접미사 배열
     30. [**4470번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ4470.java) : 줄번호
     31. [**10987번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ10987.java) : 모음의 개수
+    32. [**9086번**](https://github.com/seyeonn/Algorithm_Java/blob/master/src/com/practice/Baekjoon/Str/BJ9086.java) : 문자열
     
   
 ------
